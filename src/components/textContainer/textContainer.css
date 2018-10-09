@@ -1,0 +1,8 @@
+.text-container--component {
+    border: 1px solid grey;
+    padding: 24px;
+}
+.text-container--component button {
+    padding: .5rem 2rem;
+    margin-right: .5rem;
+}
